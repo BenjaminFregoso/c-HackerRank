@@ -1,0 +1,15 @@
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\bin\Debug\net10.0\CompareArrayRank.exe
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\bin\Debug\net10.0\CompareArrayRank.deps.json
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\bin\Debug\net10.0\CompareArrayRank.runtimeconfig.json
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\bin\Debug\net10.0\CompareArrayRank.dll
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\bin\Debug\net10.0\CompareArrayRank.pdb
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\CompareArrayRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\CompareArrayRank.AssemblyInfoInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\CompareArrayRank.AssemblyInfo.cs
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\CompareArrayRank.csproj.CoreCompileInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\CompareArrayRank.sourcelink.json
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\CompareArrayRank.dll
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\refint\CompareArrayRank.dll
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\CompareArrayRank.pdb
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\CompareArrayRank.genruntimeconfig.cache
+C:\Users\Benack\source\repos\c-HackerRank\CompareArrayRank\CompareArrayRank\obj\Debug\net10.0\ref\CompareArrayRank.dll
