@@ -1,0 +1,14 @@
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\bin\Debug\net10.0\SumArrayItems.exe
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\bin\Debug\net10.0\SumArrayItems.deps.json
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\bin\Debug\net10.0\SumArrayItems.runtimeconfig.json
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\bin\Debug\net10.0\SumArrayItems.dll
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\bin\Debug\net10.0\SumArrayItems.pdb
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\SumArrayItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\SumArrayItems.AssemblyInfoInputs.cache
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\SumArrayItems.AssemblyInfo.cs
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\SumArrayItems.csproj.CoreCompileInputs.cache
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\SumArrayItems.dll
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\refint\SumArrayItems.dll
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\SumArrayItems.pdb
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\SumArrayItems.genruntimeconfig.cache
+C:\Users\Benack\source\repos\SumArrayItems\SumArrayItems\obj\Debug\net10.0\ref\SumArrayItems.dll
