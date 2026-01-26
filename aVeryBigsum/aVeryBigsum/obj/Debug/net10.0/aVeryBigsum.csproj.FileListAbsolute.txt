@@ -1,0 +1,15 @@
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\aVeryBigsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\aVeryBigsum.AssemblyInfoInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\aVeryBigsum.AssemblyInfo.cs
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\aVeryBigsum.csproj.CoreCompileInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\aVeryBigsum.sourcelink.json
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\bin\Debug\net10.0\aVeryBigsum.exe
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\bin\Debug\net10.0\aVeryBigsum.deps.json
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\bin\Debug\net10.0\aVeryBigsum.runtimeconfig.json
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\bin\Debug\net10.0\aVeryBigsum.dll
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\bin\Debug\net10.0\aVeryBigsum.pdb
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\aVeryBigsum.dll
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\refint\aVeryBigsum.dll
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\aVeryBigsum.pdb
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\aVeryBigsum.genruntimeconfig.cache
+C:\Users\Benack\source\repos\c-HackerRank\aVeryBigsum\aVeryBigsum\obj\Debug\net10.0\ref\aVeryBigsum.dll

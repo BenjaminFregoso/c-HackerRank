@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Benack\\source\\repos\\c-HackerRank\\aVeryBigsum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFE5FD8-3C19-49F9-9F84-79DE3C5CA616}|aVeryBigsum\\aVeryBigsum.csproj|c:\\users\\benack\\source\\repos\\c-hackerrank\\averybigsum\\averybigsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFE5FD8-3C19-49F9-9F84-79DE3C5CA616}|aVeryBigsum\\aVeryBigsum.csproj|solutionrelative:averybigsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Benack\\source\\repos\\c-HackerRank\\aVeryBigsum\\aVeryBigsum\\Program.cs",
+              "RelativeDocumentMoniker": "aVeryBigsum\\Program.cs",
+              "ToolTip": "C:\\Users\\Benack\\source\\repos\\c-HackerRank\\aVeryBigsum\\aVeryBigsum\\Program.cs*",
+              "RelativeToolTip": "aVeryBigsum\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:24:52.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
