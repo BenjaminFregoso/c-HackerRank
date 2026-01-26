@@ -1,0 +1,15 @@
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\DiagonalSumMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\DiagonalSumMatrix.AssemblyInfoInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\DiagonalSumMatrix.AssemblyInfo.cs
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\DiagonalSumMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\DiagonalSumMatrix.sourcelink.json
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\bin\Debug\net10.0\DiagonalSumMatrix.exe
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\bin\Debug\net10.0\DiagonalSumMatrix.deps.json
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\bin\Debug\net10.0\DiagonalSumMatrix.runtimeconfig.json
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\bin\Debug\net10.0\DiagonalSumMatrix.dll
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\bin\Debug\net10.0\DiagonalSumMatrix.pdb
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\DiagonalSumMatrix.dll
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\refint\DiagonalSumMatrix.dll
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\DiagonalSumMatrix.pdb
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\DiagonalSumMatrix.genruntimeconfig.cache
+C:\Users\Benack\source\repos\c-HackerRank\DiagonalSumMatrix\DiagonalSumMatrix\obj\Debug\net10.0\ref\DiagonalSumMatrix.dll
