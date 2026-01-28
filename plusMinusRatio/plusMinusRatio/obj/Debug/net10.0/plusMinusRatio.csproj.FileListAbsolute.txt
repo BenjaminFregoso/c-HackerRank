@@ -1,0 +1,15 @@
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\bin\Debug\net10.0\plusMinusRatio.exe
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\bin\Debug\net10.0\plusMinusRatio.deps.json
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\bin\Debug\net10.0\plusMinusRatio.runtimeconfig.json
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\bin\Debug\net10.0\plusMinusRatio.dll
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\bin\Debug\net10.0\plusMinusRatio.pdb
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\plusMinusRatio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\plusMinusRatio.AssemblyInfoInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\plusMinusRatio.AssemblyInfo.cs
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\plusMinusRatio.csproj.CoreCompileInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\plusMinusRatio.sourcelink.json
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\plusMinusRatio.dll
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\refint\plusMinusRatio.dll
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\plusMinusRatio.pdb
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\plusMinusRatio.genruntimeconfig.cache
+C:\Users\Benack\source\repos\c-HackerRank\plusMinusRatio\plusMinusRatio\obj\Debug\net10.0\ref\plusMinusRatio.dll
