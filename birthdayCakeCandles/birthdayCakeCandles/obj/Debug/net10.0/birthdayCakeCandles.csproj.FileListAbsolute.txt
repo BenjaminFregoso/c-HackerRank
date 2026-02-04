@@ -1,0 +1,15 @@
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\bin\Debug\net10.0\birthdayCakeCandles.exe
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\bin\Debug\net10.0\birthdayCakeCandles.deps.json
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\bin\Debug\net10.0\birthdayCakeCandles.runtimeconfig.json
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\bin\Debug\net10.0\birthdayCakeCandles.dll
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\bin\Debug\net10.0\birthdayCakeCandles.pdb
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\birthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\birthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\birthdayCakeCandles.AssemblyInfo.cs
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\birthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\birthdayCakeCandles.sourcelink.json
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\birthdayCakeCandles.dll
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\refint\birthdayCakeCandles.dll
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\birthdayCakeCandles.pdb
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\birthdayCakeCandles.genruntimeconfig.cache
+C:\Users\Benack\source\repos\c-HackerRank\birthdayCakeCandles\birthdayCakeCandles\obj\Debug\net10.0\ref\birthdayCakeCandles.dll
