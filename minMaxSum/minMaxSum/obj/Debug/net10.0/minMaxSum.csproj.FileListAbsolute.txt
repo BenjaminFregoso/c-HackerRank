@@ -1,0 +1,15 @@
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\bin\Debug\net10.0\minMaxSum.exe
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\bin\Debug\net10.0\minMaxSum.deps.json
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\bin\Debug\net10.0\minMaxSum.runtimeconfig.json
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\bin\Debug\net10.0\minMaxSum.dll
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\bin\Debug\net10.0\minMaxSum.pdb
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\minMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\minMaxSum.AssemblyInfoInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\minMaxSum.AssemblyInfo.cs
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\minMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\minMaxSum.sourcelink.json
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\minMaxSum.dll
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\refint\minMaxSum.dll
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\minMaxSum.pdb
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\minMaxSum.genruntimeconfig.cache
+C:\Users\Benack\source\repos\c-HackerRank\minMaxSum\minMaxSum\obj\Debug\net10.0\ref\minMaxSum.dll
